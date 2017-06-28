@@ -1,0 +1,14 @@
+C:\Users\Minons\Desktop\test\test\bin\Release\test.exe.config
+C:\Users\Minons\Desktop\test\test\obj\Release\test.exe
+C:\Users\Minons\Desktop\test\test\obj\Release\test.pdb
+C:\Users\Minons\Desktop\ChuongTrinh\test\bin\Release\test.exe.config
+C:\Users\Minons\Desktop\ChuongTrinh\test\obj\Release\test.exe
+C:\Users\Minons\Desktop\ChuongTrinh\test\obj\Release\test.pdb
+D:\Document\Code\dem 7000tu\ChuongTrinh\test\bin\Release\test.exe.config
+D:\Document\Code\dem 7000tu\ChuongTrinh\test\obj\Release\test.exe
+D:\Document\Code\dem 7000tu\ChuongTrinh\test\obj\Release\test.pdb
+D:\Document\Code\dem 7000tu\ChuongTrinh\test\bin\Release\test.exe
+D:\Document\Code\dem 7000tu\ChuongTrinh\test\bin\Release\test.pdb
+D:\Document\Code\dem 7000tu\ChuongTrinh\test\obj\Release\test.Form1.resources
+D:\Document\Code\dem 7000tu\ChuongTrinh\test\obj\Release\test.Properties.Resources.resources
+D:\Document\Code\dem 7000tu\ChuongTrinh\test\obj\Release\Exercise 2.csproj.GenerateResource.Cache
